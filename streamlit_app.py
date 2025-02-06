@@ -127,3 +127,69 @@ centered_image_comparison(
     label1="input",
     label2="magic retouch",
 )
+
+
+st.markdown("### test image 11")
+centered_image_comparison(
+    img1="https://automated-photo-retouching-test.s3.ap-southeast-2.amazonaws.com/client2/11.jpg",
+    img2="https://automated-photo-retouching-test.s3.ap-southeast-2.amazonaws.com/client2/11_after.jpg",
+    label1="input",
+    label2="magic retouch",
+)
+
+st.markdown("### test image 12")
+centered_image_comparison(
+    img1="https://automated-photo-retouching-test.s3.ap-southeast-2.amazonaws.com/client2/12.jpg",
+    img2="https://automated-photo-retouching-test.s3.ap-southeast-2.amazonaws.com/client2/12_after.jpg",
+    label1="input",
+    label2="magic retouch",
+)
+
+st.markdown("### test image 13")
+centered_image_comparison(
+    img1="https://automated-photo-retouching-test.s3.ap-southeast-2.amazonaws.com/client2/13.jpg",
+    img2="https://automated-photo-retouching-test.s3.ap-southeast-2.amazonaws.com/client2/13_after.jpg",
+    label1="input",
+    label2="magic retouch",
+)
+
+st.markdown("### test image 14")
+centered_image_comparison(
+    img1="https://automated-photo-retouching-test.s3.ap-southeast-2.amazonaws.com/client2/14.jpg",
+    img2="https://automated-photo-retouching-test.s3.ap-southeast-2.amazonaws.com/client2/14_after.jpg",
+    label1="input",
+    label2="magic retouch",
+)
+
+
+st.markdown("### test image 15")
+centered_image_comparison(
+    img1="https://automated-photo-retouching-test.s3.ap-southeast-2.amazonaws.com/client2/15.jpg",
+    img2="https://automated-photo-retouching-test.s3.ap-southeast-2.amazonaws.com/client2/15_after.jpg",
+    label1="input",
+    label2="magic retouch",
+)
+
+st.markdown("### test image 16")
+centered_image_comparison(
+    img1="https://automated-photo-retouching-test.s3.ap-southeast-2.amazonaws.com/client2/16.jpg",
+    img2="https://automated-photo-retouching-test.s3.ap-southeast-2.amazonaws.com/client2/16_after.jpg",
+    label1="input",
+    label2="magic retouch",
+)
+
+st.markdown("### test image 17")
+centered_image_comparison(
+    img1="https://automated-photo-retouching-test.s3.ap-southeast-2.amazonaws.com/client2/17.jpg",
+    img2="https://automated-photo-retouching-test.s3.ap-southeast-2.amazonaws.com/client2/17_after.jpg",
+    label1="input",
+    label2="magic retouch",
+)
+
+st.markdown("### test image 18")
+centered_image_comparison(
+    img1="https://automated-photo-retouching-test.s3.ap-southeast-2.amazonaws.com/client2/18.jpg",
+    img2="https://automated-photo-retouching-test.s3.ap-southeast-2.amazonaws.com/client2/18_after.jpg",
+    label1="input",
+    label2="magic retouch",
+)
