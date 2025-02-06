@@ -188,7 +188,7 @@ centered_image_comparison(
 st.markdown("### test image 18")
 centered_image_comparison(
     img1="https://automated-photo-retouching-test.s3.ap-southeast-2.amazonaws.com/client2/18.jpg",
-    img2="https://automated-photo-retouching-test.s3.ap-southeast-2.amazonaws.com/client2/18_after.jpg",
+    img2="https://automated-photo-retouching-test.s3.ap-southeast-2.amazonaws.com/client2/18_mr.jpg",
     label1="input",
     label2="magic retouch",
 )
